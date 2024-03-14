@@ -1,0 +1,36 @@
+Microsoft Windows [Version 10.0.19042.746]
+(c) 2020 Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Users\Julius>cd C:\FH Aachen\Semester5\KMPS\Teil2\Praktikum\praktikumjs
+
+C:\FH Aachen\Semester5\KMPS\Teil2\Praktikum\praktikumjs>node Client
+Client started...
+Please enter Client-ID: Client1
+
+No Tickets
+number: self assignment, q: quit
+
+Tickets:
+ticket1 (not assigned yet)
+number: self assignment, q: quit
+
+Tickets:
+ticket1 (not assigned yet)
+ticket2 (not assigned yet)
+number: self assignment, q: quit
+1
+
+Tickets:
+ticket1 (Client1)
+ticket2 (not assigned yet)
+number: self assignment, q: quit
+
+Tickets:
+ticket1 (Client1)
+ticket2 (Client2)
+number: self assignment, q: quit
+q
+
+Client closed...
+
+C:\FH Aachen\Semester5\KMPS\Teil2\Praktikum\praktikumjs>

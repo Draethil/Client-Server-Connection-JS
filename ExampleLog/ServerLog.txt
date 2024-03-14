@@ -1,0 +1,98 @@
+Microsoft Windows [Version 10.0.19042.746]
+(c) 2020 Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Users\Julius>cd C:\FH Aachen\Semester5\KMPS\Teil2\Praktikum\praktikumjs
+
+C:\FH Aachen\Semester5\KMPS\Teil2\Praktikum\praktikumjs>node Server
+Server started...
+
+No Tickets
+n: new ticket, q: quit
+
+New Client: Client1
+
+No Tickets
+n: new ticket, q: quit
+
+New Client: Client2
+
+No Tickets
+n: new ticket, q: quit
+n
+
+Tickets:
+ticket1 (not assigned yet)
+n: new ticket, q: quit
+
+New Client: Client3
+
+Tickets:
+ticket1 (not assigned yet)
+n: new ticket, q: quit
+n
+
+Tickets:
+ticket1 (not assigned yet)
+ticket2 (not assigned yet)
+n: new ticket, q: quit
+
+Tickets:
+ticket1 (Client1)
+ticket2 (not assigned yet)
+n: new ticket, q: quit
+
+Tickets:
+ticket1 (Client1)
+ticket2 (Client2)
+n: new ticket, q: quit
+
+Client: "Client1" connection closed
+
+Tickets:
+ticket1 (Client1)
+ticket2 (Client2)
+n: new ticket, q: quit
+n
+
+Tickets:
+ticket1 (Client1)
+ticket2 (Client2)
+ticket3 (not assigned yet)
+n: new ticket, q: quit
+
+Client: "Client2" connection closed
+
+Tickets:
+ticket1 (Client1)
+ticket2 (Client2)
+ticket3 (not assigned yet)
+n: new ticket, q: quit
+n
+
+Tickets:
+ticket1 (Client1)
+ticket2 (Client2)
+ticket3 (not assigned yet)
+ticket4 (not assigned yet)
+n: new ticket, q: quit
+
+Tickets:
+ticket1 (Client1)
+ticket2 (Client2)
+ticket3 (not assigned yet)
+ticket4 (Client3)
+n: new ticket, q: quit
+
+Client: "Client3" connection closed
+
+Tickets:
+ticket1 (Client1)
+ticket2 (Client2)
+ticket3 (not assigned yet)
+ticket4 (Client3)
+n: new ticket, q: quit
+q
+
+Server closed...
+
+C:\FH Aachen\Semester5\KMPS\Teil2\Praktikum\praktikumjs>
